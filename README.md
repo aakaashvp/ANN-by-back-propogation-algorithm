@@ -1,5 +1,5 @@
 ### EX NO : 06
-### DATE  :
+### DATE  : 02.05.2022
 # <p align="center"> ANN BY BACK PROPAGATION ALGORITHM </p>
 ## Aim:
    To implement multi layer artificial neural network using back propagation algorithm.
@@ -49,7 +49,7 @@ b.	For the hidden units.
 /*
 Program to implement ANN by back propagation algorithm.
 Developed by   : AAKAASH V P
-RegisterNumber :  212220230001
+RegisterNumber :  2122202330001
 */
 ```
 ```python
